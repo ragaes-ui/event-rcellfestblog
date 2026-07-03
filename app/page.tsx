@@ -42,16 +42,16 @@ export default function Home() {
   const lineupData = [
     {
       name: "DAY 1 LINEUP",
-      role: "Headliner Utama",
-      time: "14.30 - 23 WIB",
-      desc: "Penampilan spesial yang akan mengguncang panggung dengan setlist eksklusif dan visual memukau.",
+      role: "DAY 1",
+      time: "14.30 - 23.30 WIB",
+      desc: "Hai rcerss berikut lineup yang sudah rilis untuk event rcellfest 17 fest ini ya",
       image: "https://i.ibb.co/kVsP4LmX/IMG-1198.png" 
     },
     {
       name: "DAY 2 LINEUP",
-      role: "Band Pembuka",
-      time: "14.30 - 23.30",
-      desc: "Membuka suasana festival dengan aliran Electronic/Synthwave yang enerjik.",
+      role: "DAY 2 & PENUTUP",
+      time: "14.30 - 23.30 WIB",
+      desc: "Hai rcerss berikut lineup yang sudah rilis untuk event rcellfest 17 fest ini ya",
       image: "https://i.ibb.co/kVsP4LmX/IMG-1198.png" 
     }
   ];
