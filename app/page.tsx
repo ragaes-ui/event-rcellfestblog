@@ -24,7 +24,7 @@ export default function Home() {
           title: "RCELLFESTIVAL BEYOND MEMORIES 2026",
           date: "Coming Soon Desember",
           desc: "Persiapkan dirimu untuk volume selanjutnya! Deretan artis baru, panggung yang lebih megah, dan pengalaman visual neon yang belum pernah ada sebelumnya.",
-          image: "https://i.ibb.co.com/QFy0zZCh/IMG-1616.png", // Ganti dengan poster sementaramu
+          image: "https://i.ibb.co/QFy0zZCh/IMG-1616.png", // Ganti dengan poster sementaramu
           checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfestival-beyond-memories-2026&id=69c9becbefdadf011a4b5282"
         };
         
@@ -45,14 +45,14 @@ export default function Home() {
       role: "DAY 1",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup yang sudah rilis untuk event rcellfest 17 fest ini ya",
-      image: "https://i.ibb.co.com/kVsP4LmX/IMG-1198.png" 
+      image: "https://i.ibb.co/kVsP4LmX/IMG-1198.png" 
     },
     {
       name: "DAY 2 LINEUP",
       role: "DAY 2 & PENUTUP",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup yang sudah rilis untuk event rcellfest 17 fest ini ya",
-      image: "https://i.ibb.co.com/kVsP4LmX/IMG-1198.png" 
+      image: "https://i.ibb.co/kVsP4LmX/IMG-1198.png" 
     }
   ];
 
@@ -61,14 +61,14 @@ export default function Home() {
       title: "RCELLFEST 17 FEST X INTERAKSI FESTIVAL (DAY 1)",
       date: "Day 1 ",
       desc: "Bersiaplah untuk perayaan musik, seni, dan kreativitas paling epik tahun ini. Mengambil alih Interaksi Space, RCELLFEST kali ini menjanjikan pengalaman festival yang lebih intimate, loud, dan tak terlupakan.",
-      image: "https://i.ibb.co.com/DgDch4hX/IMG-1280.png", 
+      image: "https://i.ibb.co/DgDch4hX/IMG-1280.png", 
       checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfest-17-fest-x-interaksi-festival-day-1&id=69faf2a2b461b58f73e5a173" 
     },
     {
       title: "RCELLFEST 17 FEST X INTERAKSI FESTIVAL (DAY 2)",
       date: "Day 2 ",
       desc: "Bersiaplah untuk perayaan musik, seni, dan kreativitas paling epik tahun ini. Mengambil alih Interaksi Space, RCELLFEST kali ini menjanjikan pengalaman festival yang lebih intimate, loud, dan tak terlupakan.",
-      image: "https://i.ibb.co.com/DgDch4hX/IMG-1280.png", 
+      image: "https://i.ibb.co/DgDch4hX/IMG-1280.png", 
       checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfest-17-fest-x-interaksi-festival-day-2&id=699ff07daa2b69b2bdb9a595" 
     }
   ];
@@ -283,7 +283,7 @@ export default function Home() {
                 <div className="text-pink-400 font-semibold text-sm mb-2">{nextEvent.date || "TBA"}</div>
                 <h3 className="text-xl font-bold text-white mb-2">{nextEvent.title || "RCELLFEST NEXT SHOW"}</h3>
                 <p className="text-gray-400 text-sm leading-relaxed mb-6">{nextEvent.desc || "Informasi event selanjutnya sedang dipersiapkan. Stay tuned!"}</p>
-                <a href={nextEvent.checkoutUrl || "https://rcellfest.shop"} target="_blank" rel="noopener noreferrer" className="mt-auto w-full py-3 px-4 rounded-xl text-center text-sm font-bold bg-white text-black shadow-md hover:shadow-lg hover:shadow-white/20 hover:-translate-y-1 transition-all duration-300">
+                <a href={nextEvent.checkoutUrl || "https://rcellfest.my.id"} target="_blank" rel="noopener noreferrer" className="mt-auto w-full py-3 px-4 rounded-xl text-center text-sm font-bold bg-white text-black shadow-md hover:shadow-lg hover:shadow-white/20 hover:-translate-y-1 transition-all duration-300">
                   Dapatkan Tiketnya 🎟️
                 </a>
               </div>
