@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import TicketCTA from '@/components/TicketCTA';
 import { motion, AnimatePresence } from 'framer-motion';
+import Countdown from '@/components/Countdown';
 
 export default function Home() {
   // State untuk Pop-up Gambar
@@ -124,6 +125,19 @@ export default function Home() {
         >
           Hai RCERSS, Ini adalah titik mula menuju pengalaman festival musik yang belum pernah kamu rasakan sebelumnya. Ikuti terus pembaruan eksklusif seputar Rcellfest di sini—mulai dari bocoran line-up yang penuh kejutan, persiapan tata panggung yang megah, hingga keseruan di balik layar. Kami mengambil alih ruang untuk menghadirkan getaran musik yang lebih intens dan paduan visual yang memukau. Siapkan dirimu, ajak teman-teman terbaikmu, dan pastikan kamu mendapatkan tiket untuk menjadi saksi langsung euforia tanpa batas ini!
         </motion.p>
+        
+        {/* --- KOMPONEN COUNTDOWN DITAMBAHKAN DI SINI --- */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1, delay: 1.5 }}
+          className="w-full mt-6"
+        >
+          {/* Ganti tanggalnya sesuai jadwal event Rcellfest kamu */}
+          <Countdown targetDate="2026-08-15T14:30:00" /> 
+        </motion.div>
+        {/* --------------------------------------------- */}
+
       </motion.section>
 
       {/* Lineup Section */}
