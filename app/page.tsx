@@ -45,14 +45,14 @@ export default function Home() {
       role: "DAY 1",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup yang sudah rilis untuk event rcellfest 17 fest ini ya",
-      image: "https://i.ibb.co/kVsP4LmX/IMG-1198.png" 
+      image: "https://i.ibb.co/Z6NbbyTX/IMG-2096.png" 
     },
     {
       name: "DAY 2 LINEUP",
       role: "DAY 2 & PENUTUP",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup yang sudah rilis untuk event rcellfest 17 fest ini ya",
-      image: "https://i.ibb.co/kVsP4LmX/IMG-1198.png" 
+      image: "https://i.ibb.co/Z6NbbyTX/IMG-2096.png" 
     }
   ];
 
