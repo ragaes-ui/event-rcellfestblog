@@ -103,7 +103,7 @@ export default function Home() {
         </motion.div>
 
         <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-6 tracking-tight drop-shadow-md">
-          {"RCELLFESTIVAL".split("").map((letter, index) => (
+          {"Rcellfestival".split("").map((letter, index) => (
             <motion.span
               key={index}
               initial={{ opacity: 0, y: 20 }}
