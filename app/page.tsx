@@ -46,7 +46,7 @@ export default function Home() {
       role: "DAY 1",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup phase 1 yang sudah rilis untuk event rcellfestival beyond memories ini ya",
-      image: "https://i.ibb.co/yBR7R8fg/IMG-3409.jpg" 
+      image: "https://i.ibb.co.com/yBR7R8fg/IMG-3409.jpg" 
     }
   ];
 
@@ -55,7 +55,7 @@ export default function Home() {
       title: "RCELLFESTIVAL BEYOND MEMORIES X KURASU COFFEE",
       date: "Day 1,2,3 ",
       desc: "Bersiaplah untuk perayaan musik, seni, dan kreativitas paling epik tahun ini. Mengambil alih Interaksi Space, RCELLFEST kali ini menjanjikan pengalaman festival yang lebih intimate, loud, dan tak terlupakan.",
-      image: "https://i.ibb.co/C52gCXHF/IMG-1616.png", 
+      image: "https://i.ibb.co.com/C52gCXHF/IMG-1616.png", 
       checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfestival-beyond-memories-2026&id=69c9becbefdadf011a4b5282" 
     }
 
