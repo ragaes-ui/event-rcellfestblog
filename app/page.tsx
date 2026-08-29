@@ -121,7 +121,7 @@ export default function Home() {
           className="w-full mt-6"
         >
           {/* Ganti tanggalnya sesuai jadwal event Rcellfest kamu */}
-          <Countdown targetDate="2026-08-15T14:30:00" /> 
+          <Countdown targetDate="2026-12-29T14:30:00" /> 
         </motion.div>
         {/* --------------------------------------------- */}
 
