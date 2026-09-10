@@ -25,7 +25,7 @@ export default function Home() {
           title: "Buka Sama-Sama Fest 2027",
           date: "Coming Soon Februari",
           desc: "Yuk persiapkan dirimu untuk buka bersama bareng kita dan sambil menikmati musik-musik kesayangan kalian.",
-          image: "https://i.ibb.co/VY1xntTs/IMG-3313.jpg", // Ganti dengan poster sementaramu
+          image: "https://i.ibb.co.com/VY1xntTs/IMG-3313.jpg", // Ganti dengan poster sementaramu
           checkoutUrl: "https://www.rcellfest.my.id/detail?event=buka-sama-sama-fest-2027&id=69ea339eb6d3f58b8ab2cf3a"
         };
         
