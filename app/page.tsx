@@ -47,6 +47,13 @@ export default function Home() {
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup phase 1 yang sudah rilis untuk event rcellfestival beyond memories ini ya",
       image: "https://i.ibb.co.com/yBR7R8fg/IMG-3409.jpg" 
+    },
+        {
+      name: "PHASE 2",
+      role: "PHASE 2",
+      time: "14.30 - 23.30 WIB",
+      desc: "Hai rcerss berikut lineup phase 1 yang sudah rilis untuk event rcellfestival beyond memories ini ya",
+      image: "https://i.ibb.co.com/5xT78dhR/IMG-3686.jpg" 
     }
   ];
 
@@ -57,6 +64,13 @@ export default function Home() {
       desc: "Bersiaplah untuk perayaan musik, seni, dan kreativitas paling epik tahun ini. Mengambil alih Interaksi Space, RCELLFEST kali ini menjanjikan pengalaman festival yang lebih intimate, loud, dan tak terlupakan.",
       image: "https://i.ibb.co.com/C52gCXHF/IMG-1616.png", 
       checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfestival-beyond-memories-2026&id=69c9becbefdadf011a4b5282" 
+    },
+    {
+      title: "Party Community Temankonser X Rcellfest",
+      date: "Day 1 ",
+      desc: "Kita ngga hanya konseran di panggung loh kita juga ada party komunitas yang acaranya bakal lebih kece habis, dan seruuu Tentunya kami akan mengundang 3 artis/band yang terkenal pastinya, kami mengajak kalian semua untuk hadir pada acara kami yaa.",
+      image: "https://i.ibb.co.com/YBq06tDL/IMG-3564.jpg", 
+      checkoutUrl: "https://www.rcellfest.my.id/detail?event=party-community-temankonser-x-rcellfest&id=6a998f28d1b8c05e28356837" 
     }
 
   ];
