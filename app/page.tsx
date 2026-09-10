@@ -22,11 +22,11 @@ export default function Home() {
         
         // Data statis sebagai pengganti API
         const mockData = {
-          title: "RCELLFESTIVAL BEYOND MEMORIES 2026",
-          date: "Coming Soon Desember",
-          desc: "Persiapkan dirimu untuk volume selanjutnya! Deretan artis baru, panggung yang lebih megah, dan pengalaman visual neon yang belum pernah ada sebelumnya.",
-          image: "https://i.ibb.co/QFy0zZCh/IMG-1616.png", // Ganti dengan poster sementaramu
-          checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfestival-beyond-memories-2026&id=69c9becbefdadf011a4b5282"
+          title: "Buka Sama-Sama Fest 2027",
+          date: "Coming Soon Februari",
+          desc: "Yuk persiapkan dirimu untuk buka bersama bareng kita dan sambil menikmati musik-musik kesayangan kalian.",
+          image: "https://i.ibb.co/VY1xntTs/IMG-3313.jpg", // Ganti dengan poster sementaramu
+          checkoutUrl: "https://www.rcellfest.my.id/detail?event=buka-sama-sama-fest-2027&id=69ea339eb6d3f58b8ab2cf3a"
         };
         
         setNextEvent(mockData); 
