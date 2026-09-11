@@ -25,7 +25,7 @@ export default function Home() {
           title: "Buka Sama-Sama Fest 2027",
           date: "Coming Soon Februari",
           desc: "Yuk persiapkan dirimu untuk buka bersama bareng kita dan sambil menikmati musik-musik kesayangan kalian.",
-          image: "https://i.ibb.co.com/VY1xntTs/IMG-3313.jpg", // Ganti dengan poster sementaramu
+          image: "https://i.ibb.co/VY1xntTs/IMG-3313.jpg", // Ganti dengan poster sementaramu
           checkoutUrl: "https://www.rcellfest.my.id/detail?event=buka-sama-sama-fest-2027&id=69ea339eb6d3f58b8ab2cf3a"
         };
         
@@ -46,14 +46,14 @@ export default function Home() {
       role: "DAY 1",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup phase 1 yang sudah rilis untuk event rcellfestival beyond memories ini ya",
-      image: "https://i.ibb.co.com/yBR7R8fg/IMG-3409.jpg" 
+      image: "https://i.ibb.co/yBR7R8fg/IMG-3409.jpg" 
     },
         {
       name: "PHASE 2",
       role: "PHASE 2",
       time: "14.30 - 23.30 WIB",
       desc: "Hai rcerss berikut lineup phase 1 yang sudah rilis untuk event rcellfestival beyond memories ini ya",
-      image: "https://i.ibb.co.com/5xT78dhR/IMG-3686.jpg" 
+      image: "https://i.ibb.co/5xT78dhR/IMG-3686.jpg" 
     }
   ];
 
@@ -62,14 +62,14 @@ export default function Home() {
       title: "RCELLFESTIVAL BEYOND MEMORIES X KURASU COFFEE",
       date: "Day 1,2,3 ",
       desc: "Bersiaplah untuk perayaan musik, seni, dan kreativitas paling epik tahun ini. Mengambil alih Interaksi Space, RCELLFEST kali ini menjanjikan pengalaman festival yang lebih intimate, loud, dan tak terlupakan.",
-      image: "https://i.ibb.co.com/C52gCXHF/IMG-1616.png", 
+      image: "https://i.ibb.co/C52gCXHF/IMG-1616.png", 
       checkoutUrl: "https://www.rcellfest.my.id/detail?event=rcellfestival-beyond-memories-2026&id=69c9becbefdadf011a4b5282" 
     },
     {
       title: "Party Community Temankonser X Rcellfest",
       date: "Day 1 ",
       desc: "Kita ngga hanya konseran di panggung loh kita juga ada party komunitas yang acaranya bakal lebih kece habis, dan seruuu Tentunya kami akan mengundang 3 artis/band yang terkenal pastinya, kami mengajak kalian semua untuk hadir pada acara kami yaa.",
-      image: "https://i.ibb.co.com/YBq06tDL/IMG-3564.jpg", 
+      image: "https://i.ibb.co/YBq06tDL/IMG-3564.jpg", 
       checkoutUrl: "https://www.rcellfest.my.id/detail?event=party-community-temankonser-x-rcellfest&id=6a998f28d1b8c05e28356837" 
     }
 
