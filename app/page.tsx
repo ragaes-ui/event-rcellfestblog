@@ -124,7 +124,7 @@ export default function Home() {
           transition={{ duration: 1.2, delay: 1.2, ease: "easeOut" }}
           className="text-lg md:text-xl text-gray-400 max-w-3xl leading-relaxed mx-auto"
         >
-          Hai RCERSS, Ini adalah titik mula menuju pengalaman festival musik yang belum pernah kamu rasakan sebelumnya. Ikuti terus pembaruan eksklusif seputar Rcellfest di sini—mulai dari bocoran line-up yang penuh kejutan, persiapan tata panggung yang megah, hingga keseruan di balik layar. Kami mengambil alih ruang untuk menghadirkan getaran musik yang lebih intens dan paduan visual yang memukau. Siapkan dirimu, ajak teman-teman terbaikmu, dan pastikan kamu mendapatkan tiket untuk menjadi saksi langsung euforia tanpa batas ini!
+          Hai RCERSS, Ini adalah titik mula menuju pengalaman festival musik yang belum pernah kamu rasakan sebelumnya. Ikuti terus pembaruan eksklusif seputar Rcellfest di sini mulai dari bocoran line-up yang penuh kejutan, persiapan tata panggung yang megah, hingga keseruan di balik layar. Kami mengambil alih ruang untuk menghadirkan getaran musik yang lebih intens dan paduan visual yang memukau. Siapkan dirimu, ajak teman-teman terbaikmu, dan pastikan kamu mendapatkan tiket untuk menjadi saksi langsung euforia tanpa batas ini!
         </motion.p>
         
         {/* --- KOMPONEN COUNTDOWN DITAMBAHKAN DI SINI --- */}
